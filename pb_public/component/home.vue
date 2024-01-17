@@ -9,7 +9,7 @@
         <button class="btn-secondary btn">Learn More</button>
       </div>
     </div>
-    <img src="{{ member.pfp }}" alt="" />
+    <img v-bind:src="member.pfpUrl" alt="" />
   </div>
 </template>
 
@@ -32,6 +32,7 @@ export default {
         const list = await pb.collection('members').getList(++page, 500);
         console.log(list.items.length)
         for (let index in list.items) {
+          list.items[index].pfpUrl = pb.files.getUrl(list.items[index], list.items[index].pfp)
           items.push(list.items[index])
         }
         if (list.items.length < 500) break;
