@@ -22,7 +22,7 @@
 
 <body>
     <div id="app" v-cloak>
-        <my-component></my-component>
+        <navbar></navbar>
         <router-view></router-view>
     </div>
     <script type="module">
@@ -50,7 +50,7 @@
 
         const app = createApp();
         // custom component import
-        app.component('my-component', await vueImport('./component/common.vue'))
+        app.component('navbar', await vueImport('./component/common.vue'))
 
         app.use(router);
         app.mount('#app');
