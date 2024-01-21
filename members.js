@@ -11,8 +11,6 @@ export class Members extends LitElement {
         this.load('members')
     }
     async load(propName) {
-        const pb = new PocketBase("https://pb.lan.247420.xyz")
-        window.pb = pb;
         const table = await pb.collection(propName)
         let page = 0
         const items = [];
