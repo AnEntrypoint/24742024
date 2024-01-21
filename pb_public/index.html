@@ -31,7 +31,7 @@
 
 <body>
   <div id="app" v-cloak>
-    <my-component></my-component>
+    <navbar></navbar>
     <router-view></router-view>
   </div>
   <script type="module">
@@ -47,7 +47,11 @@
       },
       {
         path: '/home',
-        component: defineAsyncComponent(() => vueImport('./component/home.vue')),
+        component: vueImport('./component/home.vue'),
+      },
+      {
+        path: '/member/:id',
+        component: vueImport('./component/member.vue'),
       },
     ];
 
@@ -57,8 +61,7 @@
     });
 
     const app = createApp();
-    // custom component import
-    app.component('my-component', await vueImport('./component/common.vue'))
+    app.component('navbar', await vueImport('./component/navbar.vue'))
 
     app.use(router);
     app.mount('#app');
