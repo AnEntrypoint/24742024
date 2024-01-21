@@ -21,7 +21,7 @@
   <script type="module" src="https://cdnjs.cloudflare.com/ajax/libs/pocketbase/0.20.3/pocketbase.es.min.js"></script>
   <script type="module">
     import PocketBase from "PocketBase"
-    window.pb = new PocketBase('http://127.0.0.1:8090');
+    window.pb = new PocketBase('https://pb.lan.247420.xyz');
     pb.beforeSend = function (url, options) {
       options.headers['Cache-Control'] = 'max-age=10';
       return { url, options };
