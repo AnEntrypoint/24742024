@@ -1,12 +1,18 @@
 <template>
-  {{ title }}
+  <div class="bg-neutral-50 py-6 px-6 text-center dark:bg-neutral-900">
+    <h1 class="mt-2 mb-16 text-5xl font-bold tracking-tight md:text-6xl xl:text-7xl">
+      {{ title }}
+    </h1>
+  </div>
   <div v-for="member in members" class="card card-image-cover m-4">
-
     <div class="card-body">
       <h2 class="card-header">{{ member.pseudonym }}</h2>
       <p class="text-content2">{{ member.ERC20 }}</p>
       <div class="card-footer">
-        <button class="btn-secondary btn">Learn More</button>
+        <router-link v-bind:to="'/member/' + member.id">
+          <button class="btn-secondary btn">Learn More</button>
+        </router-link>
+
       </div>
     </div>
     <img v-bind:src="member.pfpUrl" alt="" />
@@ -17,7 +23,7 @@
 export default {
   data() {
     return {
-      title: 'Home',
+      title: 'Members',
       members: []
     }
   },
