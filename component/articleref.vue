@@ -1,0 +1,1660 @@
+<template>
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xbd">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-18T13:18:37.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words"> what
+                        is this time traveling skibidi black eyed with over 9000 eggs makes a beat -
+                        95% referral!
+
+                        https://www.youtube.com/watch?v=AjNsxbuipNQ
+
+                        I time travel backwards, moonwalk the stack and flick flack flap the scat
+                        like I'm making mats out of grass, because when I spoke it I ...</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/3333f0b2eaaac50d44b12af9825984e7c13b052034efd5648af336002edd850c.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/3333f0b2eaaac50d44b12af9825984e7c13b052034efd5648af336002edd850c.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xbc">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-18T13:18:37.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words"> sand
+                        in my ears while I skibidi on the toilet an ice moonshine original spice
+                        that rizzes above - 95% referral!
+
+                        https://www.youtube.com/watch?v=jHhYGi0vPQg
+
+                        There's something deceptively unrealistic about making your sound system and
+                        your ears malfunction together, but when you ...</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/e48968327cedce81ad4fa05d1bdf034b9a862a89adbc06ffb9149f8d0e30fc94.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/e48968327cedce81ad4fa05d1bdf034b9a862a89adbc06ffb9149f8d0e30fc94.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xbe">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-18T13:18:37.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">
+                        destroy the toilet - a skibidi taco iriginal beat mooning the shine with
+                        dapath - 95% referral!
+
+                        https://www.youtube.com/watch?v=GcaYBf3iXR0
+
+                        view us on the tv believe me you stop breathing when you see me maybe you
+                        can be me, but well, see when you see me puffing ...</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/08b84373f68fac13bd3e8036a241ac582aa6c5769b8e6629e279352b315b07eb.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/08b84373f68fac13bd3e8036a241ac582aa6c5769b8e6629e279352b315b07eb.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xbb">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-18T12:23:45.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">
+                        hardest zef - because some has to not lose the plot on this thicc bea(s)t -
+                        95% referral!
+
+                        https://www.youtube.com/watch?v=TAjELhiQSNs
+
+                        remember the 90s? well this beat will have you not remembering anything
+                        since then all roads lead to zef, that's why I always try ...</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/d2b2801dd5d3bdf31209d6b6e420b0527f4ee0289db6be7f2db2c35edd45401a.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/d2b2801dd5d3bdf31209d6b6e420b0527f4ee0289db6be7f2db2c35edd45401a.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xb8">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-13T07:19:57.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words"> 13
+                        October 2023 - 95% referral!
+
+                        https://www.youtube.com/watch?v=fnqPXBBhvRE
+
+                        We've been checking out shadcn gui, and it seems to be very standard
+                        looking, I like it.</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ipfs.io/ipfs/bafkreidmgjy2ygwhs4s6krxcsgjnqu3s2stl6znbofy3ggbuyp7fz6tbq4"
+                                alt="https://ipfs.io/ipfs/bafkreidmgjy2ygwhs4s6krxcsgjnqu3s2stl6znbofy3ggbuyp7fz6tbq4">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xb5">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-12T06:19:14.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">95%
+                        referral!
+                        we are creating a distributed alternative to Amazon, the project is called
+                        hype
+                    </span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/2ec0441fb7418d2fc10f7732bbe5f0baed11f72e396b4623d4c14886dcd3724c.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/2ec0441fb7418d2fc10f7732bbe5f0baed11f72e396b4623d4c14886dcd3724c.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xb4">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-12T06:19:12.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">95%
+                        referral!
+                        the retaliatory nature of beaurocracy and how it influences corruption the
+                        real problem with systens
+                    </span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/0edf3ba1b3b75fadc5bc512a1dc33a2d6b74f8348d53204f2e1a90ed31f80a98.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/0edf3ba1b3b75fadc5bc512a1dc33a2d6b74f8348d53204f2e1a90ed31f80a98.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xb4-DA-e448aac6">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-06T09:47:12.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">collecting
+                        my posts is good for you, there's 95% referrals on most of them
+                        #hey #lenster #lenstube #trending #referral #rewards</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xb2">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-06T06:14:06.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">this is
+                        a quick demo of the emerging hype* ecosystem, this demonstrates:
+
+                        hypevault
+                        calling
+                        hypehost
+                        that runs
+                        hypecall
+                        remote apps
+                        which can be used in hypeflow
+                        which calls your
+                        hypecall
+                        with
+                        hypeapi
+
+
+                        this demonstrates that network in action! very powerful stuff</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <video controls="" name="media">
+                                <source
+                                    src="https://ipfs.io/ipfs/bafybeibprvfzqa3p6ezqgw2risg7yc5ttqumnmudzw657cvm7cjjqhojtq"
+                                    type="video/mp4"
+                                    style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;">
+                            </video>
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xb1">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-02T08:42:14.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">Always
+                        remember
+
+                        #onethreethreeseven #entrypoint #numbersworthknowing #numbers #schwepe
+                        #cletus #twentyfoursevenfourtwenty</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <video controls="" name="media">
+                                <source src="https://lp-playback.com/hls/1e6dcugztj0976dv/index.m3u8" type="video/mp4"
+                                    style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;">
+                            </video>
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xb0">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-01T19:24:18.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">When
+                        you see it, you will sign a block</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <video controls="" name="media">
+                                <source src="https://lp-playback.com/hls/6065hkzjckpv9o59/index.m3u8" type="video/mp4"
+                                    style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;">
+                            </video>
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xaf">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-01T18:53:28.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">this is
+                        gonna be the biggest thing on #lenstube #lens #hey #onethreethreeseven
+                        #entrypoint #numbersworthknowing #numbers #schwepe #cletus #hammertime
+                        #twentyfoursevenfourtwenty</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <video controls="" name="media">
+                                <source src="https://lp-playback.com/hls/0a8397cylnk1ypcw/index.m3u8" type="video/mp4"
+                                    style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;">
+                            </video>
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xae">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-01T18:08:32.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">Cletus
+                        being adorable
+                        @stani.lens @wavebinder.lens @wonfiddy.lens @wooden.lens @szabo0genie.lens
+                        #onethreethreeseven #entrypoint #numbersworthknowing #numbers #schwepe
+                        #cletus #twentyfoursevenfourtwenty</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <video controls="" name="media">
+                                <source src="https://lp-playback.com/hls/c1e3caby0k0z58wo/index.m3u8" type="video/mp4"
+                                    style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;">
+                            </video>
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xad">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-01T17:33:44.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">Cletus
+                        is has something on his mind, lord knows what it is</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <video controls="" name="media">
+                                <source src="https://lp-playback.com/hls/6907vmiyt2784kuc/index.m3u8" type="video/mp4"
+                                    style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;">
+                            </video>
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xac">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-10-01T16:27:32.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">schwepe
+                        and teknopath is dancing the mr roboto
+
+                        stay tuned for more #schwepe</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <video controls="" name="media">
+                                <source src="https://lp-playback.com/hls/cf13m4l7iiw8eo8b/index.m3u8" type="video/mp4"
+                                    style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: cover;">
+                            </video>
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xab">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-09-30T12:35:21.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">Cross-posting:
+                        My secret weapon for social standing
+
+                        I love cross-posting. It's my secret weapon for social standing on the
+                        internet.
+
+                        I know what you're thinking: "Cross-posting is spammy!"
+
+                        But hear me out. When done right, cross-posting can be a highly effective
+                        way to reach a wider audience, grow your following, and establish yourself
+                        as a thought leader in your field.
+
+                        Here's how:
+
+                        1. It saves me time.
+
+                        I don't have to create unique content for each social media platform. I can
+                        simply create one piece of content and then cross-post it to all of my
+                        channels. This saves me a ton of time, which I can then use to create more
+                        high-quality content.
+
+                        2. It reaches a wider audience.
+
+                        Each social media platform has its own unique audience. When I cross-post my
+                        content, I'm able to reach people who might not otherwise see it. This helps
+                        me to grow my following and build relationships with people who are
+                        interested in what I have to say.
+
+                        3. It establishes me as a thought leader.
+
+                        When I consistently share high-quality content on my social media channels,
+                        I start to establish myself as a thought leader in my field. People begin to
+                        see me as someone who knows what they're talking about and who they can
+                        trust for information.</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/39e3a6f56921bec9378e2ac6bf2a72ea884df8b1fa4cb3016ff0773be5476ee1.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/39e3a6f56921bec9378e2ac6bf2a72ea884df8b1fa4cb3016ff0773be5476ee1.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xab-DA-9f4cfa69">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-09-25T20:29:39.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">So this
+                        is a non-transparent jpg, does this work?
+                    </span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/5252cb66f6bf3a589f1956590a2142d2b96539b7f6631015db09ec6d7af36cd1.png"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/5252cb66f6bf3a589f1956590a2142d2b96539b7f6631015db09ec6d7af36cd1.png">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xab-DA-6f7364a8">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-09-25T20:23:57.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">This is
+                        what happens when you don't know exactly what's going on with png images
+                        hahaha
+
+                    </span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/46f1ede4888f7bb9e550350f07726c1c8a754a45a89ee192e6b37a1549f094a2.png"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/46f1ede4888f7bb9e550350f07726c1c8a754a45a89ee192e6b37a1549f094a2.png">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xab-DA-79427593">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-09-25T20:20:45.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">Hey
+                        @stani.lens I found a bug
+
+                        https://lenster.xyz/posts/0x01ac47-0xab-DA-4b3f30a7
+
+                        We can't post transparent gifs</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xab-DA-4b3f30a7">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-09-25T20:09:28.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">This is
+                        what it feels like when your social media network won't let you use your
+                        mascot images</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/96340ec9e6bfdc9d6fc26cfa728947f07904b97191445a827017972e4f925edf.png"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/96340ec9e6bfdc9d6fc26cfa728947f07904b97191445a827017972e4f925edf.png">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xa8">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-09-25T19:26:01.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span class="leading-md linkify text-md whitespace-pre-wrap break-words">Hey
+                        there, cheese lovers and triangle enthusiasts! 🧀🔼
+
+                        I can't help but pour my heart out today about my unwavering love for two
+                        things: cheese and triangles. While these might seem like unrelated passions
+                        at first glance, they come together in a beautifully delicious way that has
+                        captured my heart and taste buds. Let me take you on a cheesy journey
+                        through my gastronomic adventures and why the combination of cheese and
+                        triangles is simply the best thing ever!
+
+                        🧀 Cheese: A Love Like No Other 🧀
+
+                        First and foremost, let's talk about the star of the show, cheese! Cheese is
+                        not just a food; it's an experience, a work of art, and a source of endless
+                        joy. From the creamy, dreamy textures of brie to the sharp, tangy bite of
+                        cheddar, there's a cheese for every mood and occasion.
+
+                        Cheese has been a part of human culinary history for thousands of years,
+                        dating back to ancient civilizations. The variety of flavors, textures, and
+                        aromas it offers is nothing short of astounding. My personal favorite is a
+                        robust and earthy blue cheese, with its veins of mold creating a mosaic of
+                        flavor that dances on the taste buds.
+
+                        But it's not just about the taste. The process of cheese-making, from
+                        curdling to aging, is a testament to human ingenuity and patience. It's a
+                        reminder of how something as simple as milk can be transformed into
+                        something so complex and delightful.
+
+                        🔼 Triangles: The Shape of Perfection 🔼
+
+                        Now, let's dive into the world of triangles. Triangles are not just a
+                        geometric shape; they are a symbol of balance and harmony. Think about it:
+                        the stability of a tripod, the elegance of a pyramid, and the simplicity of
+                        a slice of pizza—all are embodied by the mighty triangle.
+
+                        Triangles are everywhere in our lives, and they hold a special place in our
+                        hearts. The pyramids of Egypt, the beauty of the Bermuda Triangle, and even
+                        the playfulness of triangular sailboats—they all bring a sense of wonder and
+                        fascination.
+
+                        When it comes to food, triangles work their magic in many ways. Think about
+                        those perfectly cut slices of pizza with a crust that's crisp on the outside
+                        and soft on the inside. Or consider the precision in a slice of pie, where
+                        the triangular cut ensures that each bite is a balance of flavors and
+                        textures.
+
+                        🧀🔼 Cheese Meets Triangles: A Match Made in Food Heaven 🧀🔼
+
+                        Now, here's where the magic happens—when cheese meets triangles, it's like a
+                        symphony of flavors and shapes that ignites your senses. One of the most
+                        iconic and beloved combinations in the culinary world is the cheese triangle
+                        sandwich. I can't get enough of those gooey, grilled cheese sandwiches that
+                        are crispy on the outside and oozing with melty goodness on the inside.
+
+                        And let's not forget the wonder of cheese platters. Those carefully arranged
+                        triangles of cheese, accompanied by crackers, fruits, and maybe a drizzle of
+                        honey, are a sight to behold. The way the flavors and textures complement
+                        each other is like a gastronomic masterpiece.
+
+                        And who can resist a classic cheese quesadilla or a savory cheese-stuffed
+                        pastry? These dishes celebrate the marriage of cheese and triangles, making
+                        them a perfect duo for any occasion.
+
+                        🧀🔼 The Joy of Sharing 🧀🔼
+
+                        One of the most beautiful aspects of my love for cheese and triangles is how
+                        they bring people together. Whether it's a cozy cheese and wine night with
+                        friends or a family picnic with cheese-laden sandwiches, these experiences
+                        create lasting memories and bonds.
+
+                        Sharing a cheese platter with loved ones and discussing the nuances of each
+                        cheese, or even debating the superior way to slice a pizza into
+                        triangles—these moments are pure joy. They're a reminder that food is not
+                        just about sustenance; it's about connection, laughter, and the warmth of
+                        togetherness.
+
+                        🧀🔼 The Quest for the Perfect Cheese Triangle 🧀🔼
+
+                        In my cheese and triangle adventures, I've embarked on a quest to find the
+                        perfect cheese triangle. It's not just about taste; it's also about the
+                        aesthetics. The ideal cheese triangle should have that golden, crispy
+                        exterior that promises a satisfying crunch. Inside, it should be a melting
+                        pot of cheesy goodness, each bite delivering a harmonious blend of flavors.
+
+                        I've tried cheese triangles from different corners of the world, from the
+                        classic American grilled cheese to the sophisticated French croque-monsieur.
+                        Each culture adds its unique twist to the beloved combination, making it a
+                        global culinary treasure.
+
+                        🧀🔼 Join Me in Celebrating the Love for Cheese and Triangles 🧀🔼
+
+                        So, here's my heartfelt ode to cheese and triangles! They bring me endless
+                        joy, and I hope they bring a smile to your face too. Whether you're a cheese
+                        connoisseur, a geometry enthusiast, or simply someone who enjoys the simple
+                        pleasures of life, I invite you to share in this celebration.
+
+                        What's your favorite cheese, and how do you like to enjoy it in the form of
+                        triangles? Share your cheesy stories and triangular delights in the comments
+                        below. Let's spread the love for these two wonderful things that m</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/e9357372bb492c93fe8363f47e03e67fea59f9dbdf0d5c5db6aeba0a2b7d4980.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/e9357372bb492c93fe8363f47e03e67fea59f9dbdf0d5c5db6aeba0a2b7d4980.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xa6">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-09-06T07:04:46.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span
+                        class="leading-md linkify text-md whitespace-pre-wrap break-words">https://www.youtube.com/watch?v=s5rpH-DKSBU
+                        # Politics and Music: 🎵🗳️
+
+                        Music has always been a powerful tool for expressing emotions, telling
+                        stories, and bringing people together. But did you know that music can also
+                        be political in nature? 🎶🗳️
+
+                        Political music is a genre that combines the power of music with the
+                        intention of conveying political messages and ideas. It has been used
+                        throughout history as a means of protest, activism, and social commentary.
+                        From Bob Dylan's iconic "Blowin' in the Wind" to Kendrick Lamar's
+                        thought-provoking "Alright," political music has the ability to inspire
+                        change and ignite conversations about important social and political issues.
+
+                        In today's world, where political tensions run high and social justice
+                        movements are gaining momentum, political music has once again taken center
+                        stage. Artists are using their platforms to shed light on various political
+                        issues, from racial inequality to climate change, and everything in between.
+                        🌍✊
+
+                        One of the most notable examples of political music in recent times is
+                        Childish Gambino's "This Is America." Released in 2018, this song and its
+                        accompanying music video sparked widespread discussions about gun violence,
+                        racism, and the state of America. With its powerful lyrics and
+                        thought-provoking visuals, "This Is America" became a cultural phenomenon
+                        and a rallying cry for social change. 🇺🇸🔫
+
+                        But political music is not limited to mainstream artists. Independent
+                        musicians and underground bands have also been using their music as a
+                        platform for political expression. These artists often tackle niche
+                        political issues that may not receive mainstream attention. From songs about
+                        indigenous rights to LGBTQ+ activism, their music serves as a voice for
+                        marginalized communities and sheds light on their struggles. 🌈🎤
+
+                        In addition to individual artists, music festivals and events have also
+                        embraced political music as a way to engage and educate their audiences.
+                        Festivals like Glastonbury and Coachella have dedicated stages and lineups
+                        specifically for political music, providing a platform for artists to share
+                        their messages with a wider audience. These events not only entertain but
+                        also inspire attendees to think critically about the world around them and
+                        take action. 🎪🌟
+
+                        Social media has played a significant role in the resurgence of political
+                        music. Platforms like TikTok and Instagram have allowed artists to reach a
+                        global audience and share their music with ease. Hashtags like
+                        #PoliticalMusic and #MusicActivism have become popular, creating communities
+                        of like-minded individuals who are passionate about using music as a tool
+                        for change. 📱🌍
+
+                        However, it is important to note that political music is not without its
+                        controversies. Some argue that music should remain separate from politics,
+                        as it can be divisive and alienate certain audiences. Others believe that
+                        music has the power to unite and inspire, and that political messages should
+                        be embraced. The debate continues, but one thing is clear: political music
+                        has the ability to spark conversations and challenge the status quo. 💬🤔
+
+                        In conclusion, political music is a genre that combines the power of music
+                        with the intention of conveying political messages and ideas. It has the
+                        ability to inspire change, shed light on important issues, and unite
+                        communities. Whether it's through mainstream hits or independent releases,
+                        political music has the power to make a difference. So next time you listen
+                        to a song with political undertones, take a moment to reflect on the message
+                        behind the music. 🎵🗳️✨</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/507d7debcf160b3587a6c962dcfbe3129fd919a05ffab07686b4c855a4de37e4.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/507d7debcf160b3587a6c962dcfbe3129fd919a05ffab07686b4c855a4de37e4.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xa5">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-09-05T07:04:34.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span
+                        class="leading-md linkify text-md whitespace-pre-wrap break-words">https://www.youtube.com/watch?v=JDWE8CEj8to
+                        # Just Chilling with MrBeast 😎🔥
+
+                        Hey everyone! 👋 Today, I had the incredible opportunity to hang out with
+                        the one and only MrBeast! 🤩 It was such a surreal experience to see the man
+                        behind the mind-blowing videos and philanthropic endeavors. Let me tell you,
+                        he's just as down to earth as you would imagine! 😍
+
+                        MrBeast, known for his jaw-dropping challenges and acts of kindness, is
+                        always busy creating content and making a positive impact on the world. But
+                        today, he took some time off to relax and enjoy a chill session with
+                        friends. And guess what? I was lucky enough to be a part of it! 🙌
+
+                        As I walked into the room, I couldn't help but feel a mix of excitement and
+                        nervousness. After all, MrBeast has become a legend in the YouTube
+                        community, and his videos have inspired millions of people around the globe.
+                        But as soon as I met him, all my worries disappeared. He greeted me with a
+                        warm smile and made me feel instantly comfortable. 😊
+
+                        We started off by talking about his latest projects and the impact he's been
+                        able to make through his videos. It was truly inspiring to hear how he uses
+                        his platform to raise awareness and help those in need. From planting trees
+                        to feeding the hungry, MrBeast is a true force for good in the world. 🌍❤️
+
+                        But amidst all the serious talk, we also had some lighthearted moments. We
+                        played video games, laughed at funny memes, and even had a friendly
+                        competition to see who could eat the most pizza slices! 🍕🎮 It was
+                        refreshing to see that even with his massive success, MrBeast hasn't lost
+                        his sense of humor and ability to enjoy the simple things in life.
+
+                        One thing that really struck me about MrBeast was his genuine interest in
+                        getting to know everyone around him. He took the time to listen to our
+                        stories, ask about our passions, and offer words of encouragement. It was
+                        clear that he values human connection and believes in the power of uplifting
+                        others. ✨🤝
+
+                        Throughout our time together, I couldn't help but feel inspired by MrBeast's
+                        humility and dedication to making a difference. He reminded me that no
+                        matter how big or small our actions may seem, they can have a profound
+                        impact on the lives of others. It's not just about the grand gestures, but
+                        also the everyday acts of kindness that can truly change the world. 🌟💪
+
+                        As our hangout session came to an end, I couldn't help but feel grateful for
+                        this incredible experience. Spending time with MrBeast was a reminder that
+                        behind the larger-than-life persona, there's a genuine person who cares
+                        deeply about making a positive impact. He's not just a YouTube sensation;
+                        he's a role model for millions of people around the world. 🌎🌟
+
+                        So, if you ever get the chance to chill with MrBeast, don't hesitate! You'll
+                        not only have an amazing time but also be inspired to make a difference in
+                        your own way. Thank you, MrBeast, for being an incredible human being and
+                        for reminding us all that kindness and generosity can change lives. 🙏❤️
+
+                        #MrBeast #Inspiration #MakingADifference #ChillingWithTheLegend #Grateful
+                        🌟🔥😊</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/e37d9657ca7b8a824249ea2e7d66a0ea2e1e5297f6902cf80e3b7e7e1394a02e.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/e37d9657ca7b8a824249ea2e7d66a0ea2e1e5297f6902cf80e3b7e7e1394a02e.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+
+    <article class="cursor-pointer p-5 first:rounded-t-xl last:rounded-b-xl hover:bg-gray-100 dark:hover:bg-gray-900">
+        <a href="https://lenster.xyz/posts/0x01ac47-0xa2">
+            <div class="flex justify-between space-x-1.5 pb-4">
+                <span>
+                    <div class="flex items-center justify-between">
+                        <span>
+                            <span aria-expanded="false">
+                                <div class="flex items-center space-x-3"><img
+                                        src="https://media.discordapp.net/attachments/843928612276273162/1062806137759608932/ezgif-1-e2dcb85079.gif"
+                                        loading="lazy"
+                                        class="h-10 w-10 rounded-full border bg-gray-200 dark:border-gray-700" height="40"
+                                        width="40" alt="teknopath">
+                                    <div>
+                                        <div class="flex max-w-sm items-center truncate">
+                                            <div class="text-md">Moonshine Mclanmower</div>
+                                        </div>
+                                        <div>
+                                            <span
+                                                class="from-brand-600 dark:from-brand-400 bg-gradient-to-r to-pink-600 bg-clip-text text-transparent dark:to-pink-400 text-sm">@teknopath</span>
+                                            <span class="lt-text-gray-500">
+                                                <span class="mx-1.5">·</span>
+                                                <span class="text-xs"
+                                                    title="Feb 14, 2023, 9:05:14 AM">2023-08-21T07:18:26.000Z</span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </span>
+                        </span>
+
+                    </div>
+                </span>
+            </div>
+            <div class="ml-[53px]">
+                <div class="break-words">
+                    <span
+                        class="leading-md linkify text-md whitespace-pre-wrap break-words">https://www.youtube.com/watch?v=r8YpOPajKQE
+                        # Dub Intercepta (Original Audio) Live at WaVeS Live DUB at WaVeS Teknopath
+                        🎶🎸🥁
+
+                        Hey everyone! Get ready to groove to the mesmerizing beats of Dub Intercepta
+                        as they take the stage at WaVeS Live DUB at WaVeS Teknopath! 🌊🎶
+
+                        🎵 **Lineup:** 🎵
+                        - Dub Intercepta on toasting, synth, and loops
+                        - Nanoggedon on percussion and loops
+                        - Gary on guitar
+
+                        This talented trio is all set to captivate the audience with their unique
+                        blend of dub music. With Dub Intercepta on toasting, synth, and loops,
+                        Nanoggedon on percussion and loops, and Gary on guitar, you can expect an
+                        unforgettable live performance that will leave you wanting more! 🎤🎹🥁🎸
+
+                        Dub Intercepta is known for their ability to create a sonic experience like
+                        no other. Their music takes you on a journey through deep basslines,
+                        hypnotic rhythms, and soulful melodies. It's a fusion of reggae, dub, and
+                        electronic music that will transport you to another dimension. 🌌🎶
+
+                        WaVeS Live DUB at WaVeS Teknopath is the perfect venue for this mind-blowing
+                        performance. The atmosphere is electric, with a state-of-the-art sound
+                        system that will make you feel every beat in your bones. 🎛️🔊
+
+                        So, mark your calendars and join us for an evening of pure musical bliss.
+                        Let the infectious energy of Dub Intercepta take over as they create a sonic
+                        landscape that will leave you in awe. 🌟🎵
+
+                        Don't forget to invite your friends and spread the word about this
+                        incredible event. Use the hashtags #DubInterceptaLive and #WaVeSLiveDUB to
+                        share your excitement on social media. Let's make this a night to remember!
+                        📣🎉
+
+                        See you all at WaVeS Live DUB at WaVeS Teknopath for an unforgettable night
+                        of dub music magic! 🌙🎶✨</span>
+                    <div class="grid-cols-1 grid-rows-1 grid gap-2 pt-3">
+                        <div class="  w-2/3 relative">
+
+                            <img class="cursor-pointer rounded-lg border bg-gray-100 object-cover dark:border-gray-700 dark:bg-gray-800"
+                                loading="lazy" height="1000" width="1000"
+                                src="https://ik.imagekit.io/lens/media-snapshot/9698636e26b9b71fc34a6be8648a7790299d45ac66706e026e9ee9723b4251cc.jpg"
+                                alt="https://ik.imagekit.io/lens/media-snapshot/9698636e26b9b71fc34a6be8648a7790299d45ac66706e026e9ee9723b4251cc.jpg">
+
+
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </a>
+    </article>
+</template>
