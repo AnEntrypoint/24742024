@@ -1,0 +1,51 @@
+<template>
+  <div class="bg-neutral-50 py-6 px-6 text-center dark:bg-neutral-900">
+    <h1 class="mt-2 mb-12 text-5xl font-bold tracking-tight md:text-6xl xl:text-7xl">
+      {{ title }}
+    </h1>
+  </div>
+
+  <div class="grid gap-8 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 p-4 md:p-2 xl:p-5">
+    <div v-for="member in members" class="card card-image-cover">
+      <router-link v-bind:to="'/member/' + member.id">
+        <img v-bind:src="member.pfpUrl" alt="" />
+        <div class="card-body">
+          <h2 class="card-header">{{ member.pseudonym }}</h2>
+          <p class="text-content2 text-ellipsis overflow-hidden">
+            {{ member.ERC20 }}
+          </p>
+          <div class="card-footer">
+            <button class="btn-secondary btn">View profile</button>
+          </div>
+        </div>
+      </router-link>
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      title: 'Members',
+      members: []
+    }
+  },
+  created() {
+    this.start()
+  },
+  methods: {
+    async start() {
+      this.members = await loadAll('members');
+      console.log(this.members)
+      this.members.forEach(member=>getFiles(member, 'pfp'))
+    }
+  }
+}
+</script>
+
+<style>
+.title {
+  color: blue;
+}
+</style>
