@@ -1,71 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio"></script>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rippleui@1.12.1/dist/css/styles.css" />
-  <title>vue-import</title>
-  <script type="importmap">
-    {
-      "imports": {
-        "PocketBase": "https://cdnjs.cloudflare.com/ajax/libs/pocketbase/0.20.3/pocketbase.es.min.js",
-        "vue": "https://cdn.jsdelivr.net/npm/vue@3/dist/vue.esm-browser.prod.js",
-        "vue-import": "https://cdn.jsdelivr.net/npm/vue-import/dist/vue-import.esm-browser.js",
-        "vue-router": "https://cdn.jsdelivr.net/npm/vue-router/dist/vue-router.esm-browser.js",
-        "@vue/devtools-api": "https://cdn.jsdelivr.net/npm/@vue/devtools-api/lib/esm/index.js"
+  <head>
+    <meta charset="UTF-8" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js"></script>
+    <script src="https://cdn.tailwindcss.com?plugins=typography,aspect-ratio"></script>
+    <title>247420</title>
+    <script type="importmap">
+      {
+        "imports": {
+          "PocketBase": "https://cdnjs.cloudflare.com/ajax/libs/pocketbase/0.20.3/pocketbase.es.min.js",
+          "vue": "https://cdn.jsdelivr.net/npm/vue@3/dist/vue.esm-browser.prod.js",
+          "vue-import": "https://cdn.jsdelivr.net/npm/vue-import/dist/vue-import.esm-browser.js",
+          "vue-router": "https://cdn.jsdelivr.net/npm/vue-router/dist/vue-router.esm-browser.js",
+          "@vue/devtools-api": "https://cdn.jsdelivr.net/npm/@vue/devtools-api/lib/esm/index.js"
+        }
       }
-    }
-  </script>
-  <script type="module" src="https://cdnjs.cloudflare.com/ajax/libs/pocketbase/0.20.3/pocketbase.es.min.js"></script>
-  <script type="module">
-    import PocketBase from "PocketBase"
-    window.pb = new PocketBase('https://pb.lan.247420.xyz');
-    pb.beforeSend = function (url, options) {
-      options.headers['Cache-Control'] = 'max-age=10';
-      return { url, options };
-    };
-  </script>
-</head>
+    </script>
+    <script type="module">
+      import PocketBase from "PocketBase";
+      window.pb = new PocketBase("https://pb.lan.247420.xyz");
+      pb.beforeSend = function (url, options) {
+        options.headers["Cache-Control"] = "max-age=10";
+        return { url, options };
+      };
 
-<body>
-  <div id="app" v-cloak>
-    <navbar></navbar>
-    <router-view></router-view>
-  </div>
-  <script type="module">
-    import { createApp, defineAsyncComponent } from 'vue';
-    import { createRouter, createWebHashHistory } from 'vue-router';
-    import vueImport from 'vue-import';
+      window.loadAll = async (collectionName) => {
+        const items = [];
+        let page = 0;
+        while (true) {
+          const list = await window.pb
+            .collection(collectionName)
+            .getList(++page, 500);
+          for (let index in list.items) {
+            items.push(list.items[index]);
+          }
+          if (list.items.length < 500) break;
+        }
+        return items;
+      };
 
-    const routes = [
-      { path: '/', redirect: '/welcome' },
-      {
-        path: '/welcome',
-        component: await vueImport('./component/welcome.vue'),
-      },
-      {
-        path: '/home',
-        component: vueImport('./component/home.vue'),
-      },
-      {
-        path: '/member/:id',
-        component: vueImport('./component/member.vue'),
-      },
-    ];
+      window.getFiles = (item, name) => {
+        item[name + "Url"] = window.pb.files.getUrl(item, item[name]);
+      };
 
-    const router = createRouter({
-      history: createWebHashHistory(),
-      routes,
-    });
+      window.makeHtml = (item, name) => {
+        item[name + "Html"] = new window.showdown.Converter().makeHtml(
+          item[name]
+        );
+      };
+    </script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/rippleui@1.12.1/dist/css/styles.css"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
 
-    const app = createApp();
-    app.component('navbar', await vueImport('./component/navbar.vue'))
+  <body>
+    <div id="app" v-cloak>
+      <navbar></navbar>
+      <router-view></router-view>
+    </div>
+    <script type="module">
+      import { createApp, defineAsyncComponent } from "vue";
+      import { createRouter, createWebHashHistory } from "vue-router";
+      import vueImport from "vue-import";
 
-    app.use(router);
-    app.mount('#app');
-  </script>
-</body>
+      const routes = [
+        { path: "/", redirect: "/welcome" },
+        {
+          path: "/welcome",
+          component: await vueImport("./component/welcome.html"),
+        },
+        {
+          path: "/sign",
+          component: await vueImport("./component/sign.html"),
+        },
+        {
+          path: "/members",
+          component: vueImport("./component/members.html"),
+        },
+        {
+          path: "/member/:id",
+          component: vueImport("./component/member.html"),
+        },
+      ];
 
+      const router = createRouter({
+        history: createWebHashHistory(),
+        routes,
+      });
+
+      const app = createApp();
+      app.component("navbar", await vueImport("./component/navbar.html"));
+
+      app.use(router);
+      app.mount("#app");
+    </script>
+  </body>
 </html>
